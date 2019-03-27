@@ -33,6 +33,8 @@ editor_draw_limits = false
 editor_draw_drag_margin = true
 script = ExtResource( 1 )
 _sections_unfolded = [ "Drag Margin", "Editor", "Pause", "Smoothing", "Transform" ]
+drag_mode_H = 1
+drag_mode_V = 1
 
 [node name="Character" type="Node2D" parent="." index="1"]
 
